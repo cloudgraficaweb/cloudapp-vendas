@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "title": "Atualização disponível!",
+  "title": "Atualização 3.6.4 Liberada!",
   "message": [
     {
-      "text": "Mantenha seu CloudApp Vendas atualizado para receber melhorias e correções. Quando aparecer o aviso de atualização, clique nele e siga as instruções para instalar a nova versão.",
+      "text": "Mantenha  o programa atualizado para receber melhorias e correções. ",
       "url": ""
     }
   ],
