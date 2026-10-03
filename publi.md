@@ -7,5 +7,6 @@
       "url": ""
     }
   ],
-  "link": ""
+  "link": "",
+  "layout": "compact"
 }
