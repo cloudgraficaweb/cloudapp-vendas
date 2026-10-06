@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "title": "Atualização 3.6.4 Liberada!",
+  "title": "Atualização 3.6.5 Liberada!",
   "message": [
     {
       "text": "Mantenha  o programa atualizado para receber melhorias e correções. ",
