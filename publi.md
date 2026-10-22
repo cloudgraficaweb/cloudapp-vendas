@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "title": "Mantenha o programa atualizado!",
+  "title": "",
   "message": [
     {
-      "text": "para receber melhorias e correções. ",
+      "text": "Mantenha o programa atualizado para receber melhorias e correções.",
       "url": ""
     }
   ],
